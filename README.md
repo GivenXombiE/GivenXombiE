@@ -13,12 +13,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/GivenXombiE/Detection-Lab/blob/main/README.md">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/GivenXombiE/Detection-Lab/blob/main/README.md">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab(WIP)|
-| Incident Response Planning and Execution      | SOC Automation Lab(WIP)|
-| Case Management with TheHive                  | SOC Automation Lab(WIP)|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab(WIP)|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/GivenXombiE/Detection-Lab">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/GivenXombiE/Detection-Lab">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/GivenXombiE/SOC-Automation">SOC Automation Lab(WIP)</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/GivenXombiE/SOC-Automation">SOC Automation Lab(WIP)</a>|
+| Case Management with TheHive                  | <a href="https://github.com/GivenXombiE/SOC-Automation">SOC Automation Lab(WIP)</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/GivenXombiE/SOC-Automation">SOC Automation Lab(WIP)</a>|
 
 ## Tools
 
@@ -47,6 +47,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/GivenXombiE/Detection-Lab/blob/main/README.md">Detection Lab</a>
-- SOC Automation Lab(WIP)
+- <a href="https://github.com/GivenXombiE/SOC-Automation">SOC Automation Lab(WIP)</a>
 
 **This repository is continuously changing/updated***
