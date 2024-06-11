@@ -1,7 +1,7 @@
 # Hello, I'm Troy
 <a href="https://www.linkedin.com/in/troyroever/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a href="https://www.hackthebox.eu/badge/image/1724001"> ![GivenXombiE](https://www.hackthebox.eu/badge/image/1724001)</a>
+<a href="https://app.hackthebox.com/profile/1724001"> ![GivenXombiE](https://www.hackthebox.eu/badge/image/1724001)</a>
 
 I am a current student with a profound interest in technology and a dedication to solving complex problems.
 
