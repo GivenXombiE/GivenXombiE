@@ -56,4 +56,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/GivenXombiE/Detection-Lab/blob/main/README.md">Detection Lab (WIP)</a>
 - <a href="https://github.com/GivenXombiE/SOC-Automation">SOC Automation Lab (WIP)</a>
 
-**This repository is continuously changing/updated***
+***This repository is continuously changing/updated***
