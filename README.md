@@ -20,6 +20,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Incident Response Planning and Execution      | <a href="https://github.com/GivenXombiE/SOC-Automation">SOC Automation Lab (WIP)</a>|
 | Case Management with TheHive                  | <a href="https://github.com/GivenXombiE/SOC-Automation">SOC Automation Lab (WIP)</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/GivenXombiE/SOC-Automation">SOC Automation Lab (WIP)</a>|
+| ELK Stack Project                               | <a href="https://github.com/GivenXombiE/ELK-Stack-Project">ELK Stack Project (WIP)</a>|
 
 ## Tools
 
