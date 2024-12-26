@@ -14,12 +14,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/GivenXombiE/Detection-Lab">Detection Lab (WIP)</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/GivenXombiE/Detection-Lab">Detection Lab (WIP)</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/GivenXombiE/SOC-Automation">SOC Automation Lab (WIP)</a>|
-| Incident Response Planning and Execution      | <a href="https://github.com/GivenXombiE/SOC-Automation">SOC Automation Lab (WIP)</a>|
-| Case Management with TheHive                  | <a href="https://github.com/GivenXombiE/SOC-Automation">SOC Automation Lab (WIP)</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/GivenXombiE/SOC-Automation">SOC Automation Lab (WIP)</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/GivenXombiE/Detection-Lab">Detection Lab </a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/GivenXombiE/Detection-Lab">Detection Lab </a>|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/GivenXombiE/SOC-Automation">SOC Automation Lab </a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/GivenXombiE/SOC-Automation">SOC Automation Lab </a>|
+| Case Management with TheHive                  | <a href="https://github.com/GivenXombiE/SOC-Automation">SOC Automation Lab </a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/GivenXombiE/SOC-Automation">SOC Automation Lab </a>|
 | ELK Stack Project                               | <a href="https://github.com/GivenXombiE/ELK-Stack-Project">ELK Stack Project (WIP)</a>|
 
 ## Tools
